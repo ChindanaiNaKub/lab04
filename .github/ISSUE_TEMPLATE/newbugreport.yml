@@ -1,7 +1,7 @@
 ---
 name: Bug Report
-about:  File a bug report.
-description: File a bug report.
+about: File a bug report.
+description: Use this template to file a bug report.
 title: "[Bug]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
