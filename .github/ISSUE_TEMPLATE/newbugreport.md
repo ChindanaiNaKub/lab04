@@ -1,6 +1,15 @@
 ---
 name: Bug Report
 about: File a bug report.
+title: "[Bug]: "
+labels: bug
+assignees: ''
+
+---
+
+---
+name: Bug Report
+about: File a bug report.
 description: Use this template to file a bug report.
 title: "[Bug]: "
 labels: ["bug", "triage"]
@@ -64,8 +73,4 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
-
-
 ---
-
-
