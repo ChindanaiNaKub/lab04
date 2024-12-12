@@ -17,11 +17,6 @@ body:
       label: Contact Details
       description: What is your name?
       placeholder: ex. Sertha Teeewattana
-  - type: textarea
-    id: feature-details
-    attributes:
-      label: What are the details of your suggestion?
-      placeholder: Feature details!
   - type: dropdown
     id: request-type
     attributes:
@@ -39,4 +34,10 @@ body:
         - Mac
         - Linux
         - Mobile
+  - type: textarea
+    id: feature-details
+    attributes:
+      label: What are the details of your suggestion?
+      description: Explain what do you want
+      placeholder: Feature details!
 ---
